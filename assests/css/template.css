@@ -132,11 +132,24 @@ nav .active a, nav a:hover {
     margin-bottom: 20px;
 }
 
-.banner_options a{
+.banner_options a {
     display: inline-block;
     border: 1px solid #fff;
     padding: 5px;
     color: #fff;
     font-size: 16px;
     text-decoration: none;
+}
+
+.margin {
+    margin-bottom: 10px;
+}
+
+.hours {
+    display: flex;
+    justify-content: space-between;
+    border-bottom: 1px solid #355db9;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-size: 14px;
 }
