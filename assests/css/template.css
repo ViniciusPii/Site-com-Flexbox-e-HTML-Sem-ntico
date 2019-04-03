@@ -202,6 +202,7 @@ nav .active a, nav a:hover {
 .departament {
     width: 150px;
     height: 150px;
+    margin-bottom: 20px;
 }
 
 .contact_text {
