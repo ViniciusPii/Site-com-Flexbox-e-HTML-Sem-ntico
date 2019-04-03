@@ -344,3 +344,65 @@ footer .widget_title_text {
     font-size: 13px;
     margin-top: 30px;
 }
+
+/*exercicio proposto*/
+
+.fb_title {
+    font-size: 23px;
+}
+
+.fb_desc {
+    font-size: 14px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.footer_text {
+    margin-bottom: 40px;
+    color: #727272;
+    margin-top: 40px;
+}
+
+.footer_title {
+    color: #727272;
+}
+
+.footer_info {
+    display: flex;
+}
+
+.footer_left {
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: 20px;
+    color: #727272;
+}
+
+.footer_right {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: flex-end;
+    color: #727272;
+}
+
+.footer_mail a {
+    color: #fff;
+    text-decoration: none;
+}
+
+.footer_social {
+    margin-top: 30px;
+    font-size: 30px;
+    color: #727272;
+}
+
+.lasted_posted_coment a {
+    text-decoration: none;
+    color: #36a9e1;
+    margin-top: 5px;
+    margin-bottom: 20px;
+}
+
+.lasted {
+    margin-left: 10px;
+}
